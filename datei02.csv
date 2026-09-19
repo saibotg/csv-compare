@@ -1,0 +1,7 @@
+ID;Bezeichnung;Betrag;Zustand
+1;Server-A;100;aktiv
+2;Server-B;275;aktiv
+4;Server-D;300;inaktiv
+5;Server-E;50;aktiv
+6;Server-F;160;inaktiv
+7;Server-G;90;aktiv
